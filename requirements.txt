@@ -1,0 +1,4 @@
+yt-dlp>=2023.3.4
+Cython>=0.29.33
+setuptools>=65.5.1
+requests>=2.32.0
